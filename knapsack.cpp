@@ -64,3 +64,10 @@ int main() {
 
     return 0;
 }
+
+// Enter the capacity of the knapsack: 10
+// Enter the number of items: 3
+// Enter the weights of the items:
+// 2 5 3
+// Enter the values of the items:
+// 4 7 5
