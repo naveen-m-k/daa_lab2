@@ -64,19 +64,19 @@ int main() {
     return 0;
 }
 
-Enter the number of vertices: 4
-Enter the number of edges: 6
-Enter the edge information (source destination weight):
-0 1 5
-0 2 10
-1 2 3
-1 3 12
-2 3 2
-3 1 1
+// Enter the number of vertices: 4
+// Enter the number of edges: 6
+// Enter the edge information (source destination weight):
+// 0 1 5
+// 0 2 10
+// 1 2 3
+// 1 3 12
+// 2 3 2
+// 3 1 1
 
-    Shortest distances between all pairs of vertices:
-0 5 8 10 
-INF 0 3 6 
-INF INF 0 2 
-INF 1 4 0 
+//     Shortest distances between all pairs of vertices:
+// 0 5 8 10 
+// INF 0 3 6 
+// INF INF 0 2 
+// INF 1 4 0 
 
